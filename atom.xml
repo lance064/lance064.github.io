@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Lance</title>
+  <title>LanceXu</title>
   <icon>https://www.gravatar.com/avatar/e0192434124fcf065274eff510159eb0</icon>
-  
+  <subtitle>一万年太久</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://www.lancexu.com/"/>
