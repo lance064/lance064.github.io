@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://www.lancexu.com/"/>
   <updated>2020-07-08T13:37:44.951Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://www.lancexu.com/</id>
   
   <author>
     <name>LanceXu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/07/08/hello-world/"/>
-    <id>http://yoursite.com/2020/07/08/hello-world/</id>
+    <link href="https://www.lancexu.com/2020/07/08/hello-world/"/>
+    <id>https://www.lancexu.com/2020/07/08/hello-world/</id>
     <published>2020-07-08T10:57:29.748Z</published>
     <updated>2020-07-08T13:37:44.951Z</updated>
     
